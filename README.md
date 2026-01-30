@@ -1,80 +1,81 @@
 <div align="center">
 
-<!-- Banner JJK Style -->
+<!-- Sukuna Banner -->
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Icons/main/GIFs/Jujutsu-Kaisen.gif" width="100%" alt="JJK Banner" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Mayank-H/Mayank-H/main/assets/sukuna-banner.gif" width="100%" alt="Sukuna Banner" />
 
-<!-- Header Typing Effect -->
+<!-- King of Curses Typing Effect -->
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D7D52C6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHalo%252C%2BSaya%2BMuhammad%2BAzri%3BMahasiswa%2BTeknik%2BInformatika%3BFull%2BStack%2BDeveloper%3BDomain%2BExpansion%253A%2BInfinite%2BCode" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DCinzel%2BDecorative%26weight%3D700%26size%3D30%26pause%3D1000%26color%3DFF0000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DMUHAMMAD%2BAZRI%3BKING%2BOF%2BCURSES%3BFULL%2BSTACK%2BDEVELOPER%3BDOMAIN%2BEXPANSION:%2BMALEVOLENT%2BSHRINE" alt="Typing SVG" />
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Location-Tarakan%252C%2520Indonesia-0D1117%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-maps%26logoColor%3Dblue" alt="Location" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Mahasiswa%2520Teknik%2520Informatika-red%3Fstyle%3Dfor-the-badge%26logo%3Dcodeforces%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Location-Tarakan%252C%2520Indonesia-black%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-maps%26logoColor%3Dred" />
 </p>
 </div>
 
-🌙 Tentang Saya
+💀 Sang Raja Kutukan
 
-"Sepanjang langit dan bumi, hanya akulah yang terhormat." — Gojo Satoru
+"Berdirilah dengan tegak. Kau kuat." — Ryomen Sukuna
 
-Seorang Mahasiswa Teknik Informatika yang berfokus pada Full Stack Development. Saya senang membangun aplikasi web yang efisien dan skalabel, layaknya teknik kutukan yang terasah sempurna. Saat ini saya sedang mendalami arsitektur sistem dan integrasi database.
+Saya adalah Muhammad Azri, seorang pengembang yang menguasai seni Full Stack Development. Seperti Sukuna yang memerintah dengan kekuatan absolut, saya membangun sistem yang tangguh, efisien, dan memiliki performa tinggi. Fokus saya saat ini adalah mengeksplorasi arsitektur perangkat lunak dan keamanan data.
 
-🎓 Status: Mahasiswa Teknik Informatika
+🩸 Spesialisasi: Arsitektur Web & Logika Backend
 
-💻 Fokus: Full Stack Web Development
+🏛️ Domain: Full Stack Development
 
-📍 Lokasi: Tarakan, Kalimantan Utara, Indonesia
+⚡ Visi: Membangun aplikasi yang tidak hanya berfungsi, tapi mendominasi.
 
-⚡ Hobi: Coding, Menonton Anime, & Mempelajari Teknologi Baru
-
-🔮 Teknik Kutukan (Tech Stack)
+🔥 Cursed Techniques (Tech Stack)
 
 <div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-%2523E34F26.svg%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-%25231572B6.svg%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523F7DF1E.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/php-%2523777BB4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/python-%25233776AB.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-%252300f.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" />
+<!-- Frontend -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
+
+
+
+
+
+<!-- Backend & Database -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
 </div>
 
-📊 Energi Kutukan (GitHub Stats)
+📊 Power Level (GitHub Stats)
 
 <div align="center">
-<table border="0">
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmuhammadazri%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D7D52C6%26text_color%3DFFFFFF%26icon_color%3D00D4FF" alt="GitHub Stats" width="400px" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmuhammadazri%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D7D52C6%26text_color%3DFFFFFF" alt="Top Languages" width="300px" />
-</td>
-</tr>
-</table>
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmuhammadazri%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3D7D52C6%26ring%3D00D4FF%26fire%3D00D4FF%26currStreakLabel%3D7D52C6" alt="GitHub Streak" />
-</div>
-
-📜 Ritual Terlarang (Quotes)
-
-"Jangan mencari alasan untuk mati. Carilah alasan untuk hidup." — Yuji Itadori
-
-"Berdiri tegaklah. Kau kuat." — Ryomen Sukuna
-
-🌐 Hubungi Saya
-
-<div align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/muhammadazri" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="mailto:email@kamu.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-<a href="https://www.google.com/search?q=https://instagram.com/usernamekamu" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram" />
-</a>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmuhammadazri%26show_icons%3Dtrue%26theme%3Dradical%26title_color%3Dff0000%26icon_color%3Dff0000%26text_color%3Dffffff%26bg_color%3D000000%26hide_border%3Dtrue" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmuhammadazri%26layout%3Dcompact%26theme%3Dradical%26title_color%3Dff0000%26text_color%3Dffffff%26bg_color%3D000000%26hide_border%3Dtrue" width="41%" />
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D7D52C6%26height%3D100%26section%3Dfooter" width="100%" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmuhammadazri%26theme%3Dradical%26background%3D000000%26ring%3DFF0000%26fire%3DFF0000%26currStreakNum%3DFFFFFF%26sideNums%3DFFFFFF%26sideLabels%3DFFFFFF%26dates%3DFFFFFF%26hide_border%3Dtrue" width="90%" />
+</div>
+
+📜 Binding Vow (Quotes)
+
+"Hirarki yang tidak didasarkan pada kekuatan murni adalah hal yang membosankan."
+
+"Kau seharusnya terbakar sampai menjadi abu untuk mencoba menggapai apa yang kau inginkan."
+
+⛩️ Temukan Saya di Ritual Ini
+
+<div align="center">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/muhammadazri">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="mailto:email@kamu.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+<a href="https://www.google.com/search?q=https://instagram.com/usernamekamu">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" />
+</a>
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3DFF0000%26height%3D5%26section%3Dfooter" width="100%" />
+<p><i>Domain Expansion: Infinite Knowledge & Hard Work</i></p>
 </div>
